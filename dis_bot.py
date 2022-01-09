@@ -119,7 +119,7 @@ async def on_message(message):
         await message.channel.send(sum)
 
 
-client.run('NzUwNDE5Nzc4ODQ1NTQwNDAz.X06Q4Q.O2Ib4jzzTAD6bjjd9mteJpmq-3c')
+client.run('YOUR TOKEN')
 
 
 
