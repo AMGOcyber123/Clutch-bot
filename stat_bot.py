@@ -25,4 +25,4 @@ async def server(ctx):
     embed.add_field(name="Member_count",value=memberCount,inline=True)
 
     await ctx.send(embed=embed)
-client.run('Nzc0MjExMDM5NzUxNDM4MzM2.X6UeOA.c9axHlKkqDnivlYtbiFV1hq69W0')
+client.run('YOUR TOKEN')
